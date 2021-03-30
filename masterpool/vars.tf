@@ -35,7 +35,7 @@ variable "rke2_version" {
 }
 variable "location" {
   type        = string
-  default     = "nbg1"
+  default     = "fsn1"
   description = "hetzner location"
 }
 variable "lb_ip" {
